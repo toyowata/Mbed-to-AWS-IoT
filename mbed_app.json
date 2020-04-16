@@ -46,6 +46,12 @@
             "nsapi.default-wifi-ssid": "\"SSID\"",
             "nsapi.default-wifi-password": "\"PASSWORD\""
         },
+        "NUCLEO_F429ZI": {
+            "led-pin": "LED1",
+            "led-on": 1,
+            "led-off": 0,
+            "user-button": "USER_BUTTON"
+        },
         "RZ_A1H": {
             "led-pin": "LED3",
             "led-on": 1,
